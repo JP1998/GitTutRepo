@@ -13,7 +13,7 @@ public class Main {
 	if (name.equals("Daniel")) {
             System.out.println("Hallo Daniel!");
 	} else if (name.equals("Jean-Pierre")) {
-            System.out.println("Hallo Jean-Pierre!");
+            System.out.println("Hallöchen Jean-Pierre!");
         }
         
         System.out.println("Tschüss " + name + " :)");

@@ -15,7 +15,10 @@ public class Main {
 	} else if (name.equals("Jean-Pierre")) {
             System.out.println("Hallöchen Jean-Pierre!");
         }
-        
+  else if (name.equals("Thomas"))
+  {
+    System.out.println("Hi Thomas!"); 
+  }
         System.out.println("Tschüss " + name + " :)");
     }
     

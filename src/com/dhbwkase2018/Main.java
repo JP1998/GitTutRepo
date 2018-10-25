@@ -14,7 +14,9 @@ public class Main {
             System.out.println("Hallo Daniel!");
 	} else if (name.equals("Jean-Pierre")) {
             System.out.println("Hallöchen Jean-Pierre!");
-        }
+        } else if (name.equals("Jonas")) {
+            System.out.println("Hallo Jonas (:");
+	}
         
         System.out.println("Tschüss " + name + " :)");
     }
